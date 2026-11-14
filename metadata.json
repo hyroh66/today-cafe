@@ -1,0 +1,6 @@
+{
+  "name": "TODAY CAFE — 2026 겨울 신메뉴 이벤트",
+  "description": "TODAY CAFE 2026 겨울 신메뉴 선착순 할인 이벤트 및 실시간 주문 관리 웹서비스 프리뷰",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
